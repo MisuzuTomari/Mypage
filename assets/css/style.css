@@ -1,0 +1,165 @@
+.navigation{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 50px 70px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+
+
+.toppage{
+    background-image: url(../img/IMG_3458.JPG);
+    background-size: cover;
+    background-repeat: repeat;
+    height: 500px;
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   /* background-image: url(../img/IMG_3458.JPG);
+    background-size: cover;
+    background-repeat: repeat;
+    hanging-punctuation: 500px; */
+}
+.hello{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.misuzu{
+    font-size: 50px;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.introduce{
+    display: flex;
+    justify-content: center;
+    padding: 8px 19px;
+}
+
+ /* margin: 2em 0;
+    color: #996666;
+    background: #FFF0F5;
+    border-top: solid 2px #996666;
+    border-bottom: solid 2px #cc6699;
+
+/* .box4 p {
+        margin: 0; 
+        padding: 0;
+} */
+
+h3{
+    font-size: 50px;
+    color: violet;
+    font-family: 'Dancing Script', cursive;
+    padding-top: 50px;
+}
+
+
+a{
+    padding: 40px;
+    text-decoration: none;
+    color:black;
+}
+
+.me{
+    padding: 50px;
+    width: 300px;
+}
+
+.sentence{
+    width: 450px;
+   
+        padding: 0.5em 1em;
+        margin: 2em 0;
+        color: #232323;
+        background: #fff8e8;
+        border-left: solid 10px #ffc06e;
+    }
+    .sentence p {
+        margin: 0; 
+        padding: 0;
+    }
+    
+
+
+.explain{
+    padding: px;
+    width: 500px;
+}
+
+.japan{
+    padding-right:20px;
+    width: 500px;
+    height: 250px;
+}
+
+
+.waku{
+    color: white;
+    background-color: FFE4E1;
+    padding: 80px;
+}
+
+
+.contacts{
+    padding-left: 45%;
+    font-size: 30px;
+}
+
+#contact {
+    margin-bottom: 230px;
+}
+.contact-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 70px;
+}
+
+input, textarea {
+    width: 40%;
+    font-size: 23px;
+    margin-bottom: 18px;
+    padding: 3px 12px;
+}
+input, textarea, button {
+    border-radius: 5px;
+}
+textarea {
+    width: 40%;
+}
+button {
+    width: 140px;
+    font-size: 23px;
+    padding: 7px;
+    height: 60px;
+    background-color: #223644;
+    margin-top: 26px;
+    cursor: pointer;
+    color: white;
+}
+
+
+footer{
+    text-align: center;
+    padding: 25px;
+    background-color: #FFE4E1;
+}
+
+footer p{
+    color: #C0A4A5;
+}
+
